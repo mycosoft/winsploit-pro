@@ -25,6 +25,12 @@ source venv/bin/activate
 python3 winsploit.py
 ```
 
+## Screenshots
+
+| Main Menu | Live IPs | Attack Console |
+|---|---|---|
+| ![Main Menu](Screenshot_2025-09-29_14_32_24.png) | ![Live IPs](Screenshot_2025-09-29_14_33_44.png) | ![Attack Console](Screenshot_2025-09-29_14_34_26.png) |
+
 ### Manual Setup
 ```bash
 # Install system dependencies
